@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chiranjeevi-konduru
-- 👀 I’m a ML and DL enthusiast. 
+- 👀 I’m a ML enthusiast. 
 - 🌱 I'm currently doing my Master's in Statisitcs at UIUC.
 - 📫 How to reach me: www.linkedin.com/in/chiru-konduru
 
